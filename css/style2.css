@@ -1,0 +1,50 @@
+
+#nav1 {
+    font-family: OpenSans ,sans-serif;/*monospace;*/
+    list-style-type: none;
+    margin: 0;
+    
+    padding: 0;
+    width: 322px;
+    background-color: rgb(31, 34, 41);
+}
+
+.nav2 {
+ 
+    display: block;
+    
+    padding: 0px 0 0px 30px;
+    text-decoration: none;
+    height: 75px;
+    width: 322px;
+    vertical-align:middle;
+     display:table-cell;
+     color: rgb(252, 252, 252);
+}
+
+/* Change the link color on hover */
+.nav2:hover {
+
+
+    background-color: rgb(42, 44, 56);
+    color: rgb(130, 134, 145);
+    width: 322px;
+}
+.menu:hover {
+
+
+    background-color: 
+    #dae5e9;
+    /*rgb(149, 154, 167);*/
+  }
+
+  .menu000:hover {
+
+
+    background-color: #dae5e9;
+
+    /*rgb(149, 154, 167);*/
+  }
+body {
+background-color: #000000 ;
+}
